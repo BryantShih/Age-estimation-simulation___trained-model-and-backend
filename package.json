@@ -1,0 +1,27 @@
+{
+  "name": "agestimator-serer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.0",
+    "jade": "*",
+    "async": "latest",
+    "mime": "latest"
+  },
+  "readmeFilename": "README.md",
+  "description": "Project Age Estimation API Server powered by Node.js",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Milnex/agestimator-server.git"
+  },
+  "keywords": [
+    "age"
+  ],
+  "author": "Ming-Ying Chung, Hao-Hsin Shih",
+  "license": "BSD"
+}
